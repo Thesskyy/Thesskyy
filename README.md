@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Thesskyy/Thesskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm [Thesskyy]!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning coding.
+- 👨‍💻 All of my projects are available at (https://github.com/Thesskyy)
+- 📫 How to reach me: [2216671586
+- @qq.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills and Tools:
+- **Languages:** Python, JavaScript, C++
+- **Tools:** Git, Docker, VSCode
+
+## 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
