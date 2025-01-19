@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning coding.
 - 👨‍💻 All of my projects are available at (https://github.com/Thesskyy)
-- 📫 How to reach me: [2216671586
-- @qq.com]
+- 📫 How to reach me:
 
 ## 🛠️ Skills and Tools:
 - **Languages:** Python, JavaScript, C++
